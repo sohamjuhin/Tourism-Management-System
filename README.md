@@ -1,24 +1,35 @@
-# Tourism-Management-System
-Installation Steps(Configuration)
+🕸# Tourism-Management-System💻
+
+_______________________Installation Steps(Configuration)______________________
 1. Download and Unzip file on your local system.
 2.Copy tms folder and tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-Database Configuration
+_____________________________Database Configuration_________________________
 
 Open phpmyadmin
 Create Database tms
-Import database tms.sql (available inside zip package)
-Open Your browser put inside browser �http://localhost/tms�
+Import database tms.sql (available inside zip package)Open Your browser put inside browser  👇🏻
+👉🏻 http://localhost/tms
 
+
+///////////////\\\\\\\\\\\\\\\\\\\///////////\\\\\\\\\\\\\\\\\
 Login Details for admin : 
-Open Your browser put inside browser �http://localhost/tms/admin�
+Open Your browser put inside browser 👉🏻 http://localhost/tms/admin 
+
 Username : admin
+
 Password : Test@123
+/////////\\\\\\\\\\\\\\////////////\\\\\\\\\\\\\\\\\\\
 
 Login Details for user: 
-Open Your browser put inside browser �http://localhost/tms/�
+Open Your browser put inside browser  👉🏻 http://localhost/tms/
+
 Username : anuj@gmail.com
+
 Password : Test@123
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+                                 👇🏻
 
 _________________________Screen Short_______________________
 ![Screenshot 2022-03-08 at 8 03 04 PM](https://user-images.githubusercontent.com/54598380/157259105-06bf9333-74a6-434c-9c75-f409957e7a8a.png)
